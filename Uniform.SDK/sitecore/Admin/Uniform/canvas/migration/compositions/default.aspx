@@ -15,9 +15,18 @@
                 <br/>
                 <span>Language: </span> <asp:TextBox runat="server" ID="tbLanguage" Text="en" Width="500"/>
                 <br/>
-                <span>Components folder: </span><asp:TextBox runat="server" ID="tbComponentsFolder" Text="/App_Data/packages/canvas_components" Width="500"/>
+                <span>Components folder: </span><asp:TextBox runat="server" ID="tbComponentsFolder" Text="/App_Data/packages/migration/canvas_components" Width="500"/>
                 <br/>
-                <span>Compositions folder: </span><asp:TextBox runat="server" ID="tbCompositionsFolder" Text="/App_Data/packages/canvas_compositions" Width="500"/>
+                <span>Compositions folder: </span><asp:TextBox runat="server" ID="tbCompositionsFolder" Text="/App_Data/packages/migration/canvas_compositions" Width="500"/>
+                <br/>
+                <span>CLI version: </span><asp:TextBox runat="server" ID="tbCliVersion" Text="17.4.1-alpha.0" Width="500"/>
+                <br/>
+                <br/>
+                <span>ProjectMap</span><br />
+                <br/>
+                <%--<span>Base url: </span><asp:TextBox runat="server" ID="tbProjectMapBaseUrl" Text="https://site.com" Width="500"/>
+                <br/>--%>
+                <span>Folder: </span><asp:TextBox runat="server" ID="tbProjectMapFolder" Text="/App_Data/packages/migration/canvas_project_map" Width="500"/>
                 <br/>
                 <br/>
                 <asp:Label runat="server" ID="lblError" Text="" Width="500" ForeColor="Red"/>
