@@ -11,7 +11,7 @@
             <main>
                 <span>Uniform site: </span> <asp:DropDownList runat="server" ID="ddlUniformSite" Width="500"/>
                 <br/>
-                <span>Database: </span> <asp:TextBox runat="server" ID="tbDatabase" Text="master" Width="500"/>
+                <span>Database override: </span> <asp:TextBox runat="server" ID="tbDatabase" Text="" Width="500"/>
                 <br/>
                 <span>Language: </span> <asp:TextBox runat="server" ID="tbLanguage" Text="en" Width="500"/>
                 <br/>

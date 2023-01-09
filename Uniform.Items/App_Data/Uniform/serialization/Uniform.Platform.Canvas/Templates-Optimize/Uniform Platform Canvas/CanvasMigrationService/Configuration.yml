@@ -2,7 +2,7 @@
 ID: "14d06266-a4c7-4fb9-be00-eb417a4d5156"
 Parent: "959b1145-6351-4585-80dd-51d2e30056ce"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Uniform Platform Canvas/CanvasIntegrationService/Configuration
+Path: /sitecore/templates/Uniform Platform Canvas/CanvasMigrationService/Configuration
 DB: master
 Languages:
 - Language: en

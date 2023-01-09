@@ -12,7 +12,7 @@
                 <p style="color: red; font-size: 14px">* For JSS sites slots must be created manually on components.</p>
                 <span>Uniform site: </span> <asp:DropDownList runat="server" ID="ddlUniformSite" Width="500"/>
                 <br/>
-                <span>Database: </span> <asp:TextBox runat="server" ID="tbDatabase" Text="master" Width="500"/>
+                <span>Database override: </span> <asp:TextBox runat="server" ID="tbDatabase" Text="" Width="500"/>
                 <br/>
                 <span>Language: </span> <asp:TextBox runat="server" ID="tbLanguage" Text="en" Width="500"/>
                 <br/>
@@ -48,6 +48,10 @@
                 <br/>
                 <span>CLEANUP</span><br/>    
                 <asp:TextBox runat="server" ID="tbDebugDelete" Text="" TextMode="MultiLine" Width="1000" Height="500"/>
+                <br/>
+                <br/>
+                <span>Log</span><br/>    
+                <asp:TextBox runat="server" ID="tbDebugLog" Text="" TextMode="MultiLine" Width="1000" Height="500"/>
             </main>
         </div>
     </form>

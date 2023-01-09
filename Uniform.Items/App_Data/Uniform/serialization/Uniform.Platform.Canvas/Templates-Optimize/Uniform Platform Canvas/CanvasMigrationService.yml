@@ -2,7 +2,7 @@
 ID: "959b1145-6351-4585-80dd-51d2e30056ce"
 Parent: "52d1446b-f298-45e2-9b6b-ef447336f962"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Uniform Platform Canvas/CanvasIntegrationService
+Path: /sitecore/templates/Uniform Platform Canvas/CanvasMigrationService
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
