@@ -1,8 +1,8 @@
 ﻿---
-ID: "14d06266-a4c7-4fb9-be00-eb417a4d5156"
-Parent: "959b1145-6351-4585-80dd-51d2e30056ce"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Uniform Platform Canvas/CanvasIntegrationService/Configuration
+ID: "9ace74bc-e27d-4404-b5cf-e9d627487241"
+Parent: "a344ba56-8d99-4308-8e0c-c6ac2091d681"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Uniform/ContentSync/FileSystem
 DB: master
 Languages:
 - Language: en
@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20210914T144922Z
+      Value: 20210106T111045Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
