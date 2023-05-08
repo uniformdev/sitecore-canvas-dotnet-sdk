@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "8e740fc6-20d8-43fd-ac47-014343ec67c5"
   Hint: Attributes
-  Value: ref=uniform%2Fservices%2FcanvasDeploymentScopeService
+  Value: ref=uniform%2Fservices%2FcanvasIncrementalDeploymentScopeService
 Languages:
 - Language: en
   Versions:

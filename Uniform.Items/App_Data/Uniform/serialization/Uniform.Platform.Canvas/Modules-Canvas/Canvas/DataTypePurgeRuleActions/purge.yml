@@ -1,0 +1,22 @@
+﻿---
+ID: "29c85b08-7bb8-4490-8890-6d1e2573b25c"
+Parent: "e822fcfd-7c0e-4fe3-8d8c-9410f9b323c6"
+Template: "cc5889bf-d866-4a66-a720-b1109757ee04"
+Path: /sitecore/system/Uniform/Modules/Canvas/DataTypePurgeRuleActions/purge
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230323T105308Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -11,11 +11,7 @@
             <main>
                 <p style="color: red; font-size: 14px">* For JSS sites slots must be created manually on components.</p>
                 <span>Uniform site: </span> <asp:DropDownList runat="server" ID="ddlUniformSite" Width="500"/>
-                <br/>
-                <span>Database override: </span> <asp:TextBox runat="server" ID="tbDatabase" Text="" Width="500"/>
-                <br/>
-                <span>Language: </span> <asp:TextBox runat="server" ID="tbLanguage" Text="en" Width="500"/>
-                <br/>
+                <br/>                
                 <span>Renderings root: </span><asp:TextBox runat="server" ID="tbRenderingsRoot" Text="/sitecore/layout/Renderings" Width="500"/>
                 <br/>
                 <span>Sublayouts root: </span><asp:TextBox runat="server" ID="tbSublayoutsRoot" Text="/sitecore/layout/Sublayouts" Width="500"/>
@@ -26,7 +22,7 @@
                 <br/>
                 <span>Components folder: </span><asp:TextBox runat="server" ID="tbComponentsFolder" Text="/App_Data/packages/platform/canvas_components" Width="500"/>
                 <br/>
-                <span>CLI version: </span><asp:TextBox runat="server" ID="tbCliVersion" Text="17.4.1-alpha.37" Width="500"/>
+                <span>CLI version: </span><asp:TextBox runat="server" ID="tbCliVersion" Text="18.31.0" Width="500"/>
                 <br/>
                 <br/>
                 <asp:Label runat="server" ID="lblError" Text="" Width="500" ForeColor="Red"/>

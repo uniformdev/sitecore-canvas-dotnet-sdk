@@ -72,7 +72,7 @@
       <HintPath>..\packages\Uniform.Abstractions.7.2.230222-1\lib\net462\Uniform.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="Uniform.ComponentModel, Version=7.2.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Uniform.ComponentModel.7.2.230222-1\lib\net462\Uniform.ComponentModel.dll</HintPath>
+      <HintPath>..\packages\Uniform.ComponentModel.7.2.230517-1\lib\net462\Uniform.ComponentModel.dll</HintPath>
     </Reference>
     <Reference Include="Uniform.Content.Sitecore, Version=7.2.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Uniform.Content.Sitecore.7.2.230222-1\lib\net462\Uniform.Content.Sitecore.dll</HintPath>
@@ -135,13 +135,13 @@
       <HintPath>..\packages\Uniform.Sitecore.Admin.7.2.230222-1\lib\net462\Uniform.Sitecore.Admin.dll</HintPath>
     </Reference>
     <Reference Include="Uniform.Platform.Canvas, Version=7.2.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Uniform.Platform.Canvas.7.2.230222-1\lib\net462\Uniform.Platform.Canvas.dll</HintPath>
+      <HintPath>..\packages\Uniform.Platform.Canvas.7.2.230517-2\lib\net462\Uniform.Platform.Canvas.dll</HintPath>
     </Reference>
     <Reference Include="Uniform.Platform.Canvas.Migration, Version=7.2.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Uniform.Platform.Canvas.Migration.7.2.230222-1\lib\net462\Uniform.Platform.Canvas.Migration.dll</HintPath>
+      <HintPath>..\packages\Uniform.Platform.Canvas.Migration.7.2.230517-2\lib\net462\Uniform.Platform.Canvas.Migration.dll</HintPath>
     </Reference>
     <Reference Include="Uniform.Platform.Canvas.SSC, Version=7.2.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Uniform.Platform.Canvas.SSC.7.2.230222-1\lib\net462\Uniform.Platform.Canvas.SSC.dll</HintPath>
+      <HintPath>..\packages\Uniform.Platform.Canvas.SSC.7.2.230517-2\lib\net462\Uniform.Platform.Canvas.SSC.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -210,6 +210,7 @@
     <Content Include="sitecore\Admin\uniform\Default.aspx" />
     <Content Include="App_Config\Include\Uniform.Platform.Canvas\Uniform.Platform.Canvas.config" />
     <Content Include="App_Config\Include\Uniform.Platform.Canvas\Uniform.Platform.Canvas.ItemBasedConfiguration.config" />
+    <Content Include="App_Config\Include\Uniform.Platform.Canvas\Uniform.Platform.Canvas.NextGenMesh.config" />
     <Content Include="App_Config\Include\Uniform.Platform.Canvas\Uniform.Platform.Canvas.Migration.config" />
     <Content Include="App_Config\Include\Uniform.Platform.Canvas\Uniform.Platform.Canvas.Migration.ItemBasedConfiguration.config" />
     <Content Include="sitecore\admin\uniform\canvas\migration\components\default.aspx" />

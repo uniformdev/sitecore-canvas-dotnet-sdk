@@ -11,15 +11,11 @@
             <main>
                 <span>Uniform site: </span> <asp:DropDownList runat="server" ID="ddlUniformSite" Width="500"/>
                 <br/>
-                <span>Database override: </span> <asp:TextBox runat="server" ID="tbDatabase" Text="" Width="500"/>
-                <br/>
-                <span>Language: </span> <asp:TextBox runat="server" ID="tbLanguage" Text="en" Width="500"/>
-                <br/>
                 <span>Components folder: </span><asp:TextBox runat="server" ID="tbComponentsFolder" Text="/App_Data/packages/migration/canvas_components" Width="500"/>
                 <br/>
                 <span>Compositions folder: </span><asp:TextBox runat="server" ID="tbCompositionsFolder" Text="/App_Data/packages/migration/canvas_compositions" Width="500"/>
                 <br/>
-                <span>CLI version: </span><asp:TextBox runat="server" ID="tbCliVersion" Text="17.4.1-alpha.0" Width="500"/>
+                <span>CLI version: </span><asp:TextBox runat="server" ID="tbCliVersion" Text="18.31.0" Width="500"/>
                 <br/>
                 <br/>
                 <span>ProjectMap</span><br />
