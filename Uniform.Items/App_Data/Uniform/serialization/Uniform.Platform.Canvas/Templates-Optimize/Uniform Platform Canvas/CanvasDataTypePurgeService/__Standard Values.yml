@@ -1,0 +1,51 @@
+﻿---
+ID: "14ae389e-e31a-41fb-b4f3-fe71fa16bc7d"
+Parent: "46f08e7b-e53a-4d5e-bc0c-c7070a610530"
+Template: "46f08e7b-e53a-4d5e-bc0c-c7070a610530"
+Path: /sitecore/templates/Uniform Platform Canvas/CanvasDataTypePurgeService/__Standard Values
+DB: master
+SharedFields:
+- ID: "0ee8a49f-bc6e-474d-a8ea-c7a9f172bc08"
+  Hint: IncrementalEventsThreshold
+  Value: 20000
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{73340012-F038-4F8E-88E7-BE0F0FDF5A5B}"
+- ID: "252655a9-c74d-4d4c-b46c-68abc79db4f8"
+  Hint: IncrementalRequestsThreshold
+  Value: 20
+- ID: "6077c650-3925-4d3a-909a-1f86ae0389b4"
+  Hint: ApiHost
+  Value: "https://uniform.app"
+- ID: "8e740fc6-20d8-43fd-ac47-014343ec67c5"
+  Hint: Attributes
+  Value: ref=uniform%2Fservices%2FcanvasDataTypePurgeService
+- ID: "9601e1f6-77f2-4406-8bb8-6b0a015ec8a9"
+  Hint: IncrementalEnabled
+  Value: false
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "ba6bcd4d-b67b-467c-8255-4038999c7963"
+  Hint: IncrementalItemsThreshold
+  Value: 500
+- ID: "fa6e4bb5-433d-4f7a-8594-819816214d65"
+  Hint: EdgeApiHost
+  Value: "https://uniform.global"
+Languages:
+- Language: en
+  Fields:
+  - ID: "9541e67d-ce8c-4225-803d-33f7f29f09ef"
+    Hint: __Short description
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210106T221408Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
