@@ -15,7 +15,7 @@
                 <br/>
                 <span>Compositions folder: </span><asp:TextBox runat="server" ID="tbCompositionsFolder" Text="/App_Data/packages/migration/canvas_compositions" Width="500"/>
                 <br/>
-                <span>CLI version: </span><asp:TextBox runat="server" ID="tbCliVersion" Text="18.31.0" Width="500"/>
+                <span>CLI version: </span><asp:TextBox runat="server" ID="tbCliVersion" Text="19.12.0" Width="500"/>
                 <br/>
                 <br/>
                 <span>ProjectMap</span><br />

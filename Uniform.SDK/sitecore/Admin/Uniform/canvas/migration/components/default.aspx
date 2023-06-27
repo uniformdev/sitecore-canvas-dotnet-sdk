@@ -20,9 +20,9 @@
                 <br/>
                 <span>Placeholder Settings: </span><asp:TextBox runat="server" ID="tbPlaceholderSettings" Text="/sitecore/layout/Placeholder Settings" Width="500"/>
                 <br/>
-                <span>Components folder: </span><asp:TextBox runat="server" ID="tbComponentsFolder" Text="/App_Data/packages/platform/canvas_components" Width="500"/>
+                <span>Components folder: </span><asp:TextBox runat="server" ID="tbComponentsFolder" Text="/App_Data/packages/migration/canvas_components" Width="500"/>
                 <br/>
-                <span>CLI version: </span><asp:TextBox runat="server" ID="tbCliVersion" Text="18.31.0" Width="500"/>
+                <span>CLI version: </span><asp:TextBox runat="server" ID="tbCliVersion" Text="19.12.0" Width="500"/>
                 <br/>
                 <br/>
                 <asp:Label runat="server" ID="lblError" Text="" Width="500" ForeColor="Red"/>
